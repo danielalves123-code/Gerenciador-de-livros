@@ -52,5 +52,5 @@ istante.add_livro(live1)
 istante.add_livro(live2)
 istante.add_livro(livo3)
 istante.pegar_livro(live2)
-print(istante)
+ 
 
